@@ -1,4 +1,4 @@
----
+barholeur---
 weight: 1
 title: "Install LocalAI"
 description: "How to install LocalAI"
